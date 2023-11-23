@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Create pdf</string>
+    <string name="phn_title">PHN Technology PVT</string>
+    <string name="invoice_title">INVOICE</string>
+    <string name="phn_address"><![CDATA[Solitaire Business Hub,Office No. E Wing 5010,F wing 5010 & \n5020, 5th E core, opp. NECO Garden Society,Viman Nagar, \nPune, Maharashtra 411014]]></string>
+    <string name="create_pdf">create pdf</string>
+</resources>
